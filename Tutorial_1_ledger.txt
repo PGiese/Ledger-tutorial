@@ -1,0 +1,19 @@
+2015/02/28 * Müller
+	Ausgaben:Lebensmittel		€2.49
+	Guthaben:Bargeld
+					
+2015/02/28 * Müller
+	Ausgaben:Drogerie			€4.99
+	Guthaben:Konto
+					
+2015/02/28 * Sparkasse
+	Ausgaben:Bankgebühr		€3.95
+	Guthaben:Konto
+					
+2015/02/28 * Sparkasse
+	Guthaben:Bargeld 				€200
+	Guthaben:Konto
+							
+2015/02/28 * San
+	Ausgaben:Lebensmittel:Ausgehen	€50.00
+	Guthaben:Bargeld
