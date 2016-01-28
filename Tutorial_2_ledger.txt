@@ -1,0 +1,22 @@
+2016/01/20 * Startbalance
+	Aktiv:giro  €160.00
+	Aktiv:bar  €40.00
+	Passiv:stadtwerke  €50.00
+	Eigenkapital
+
+2016/01/01 * Firma
+	Aktiv:giro  €1000.00
+	Einkommen
+
+2016/01/02 * immergrün
+	Ausgaben:lebensmittel:ausgehen  €40.00
+	Aktiv:bar
+
+2016/01/02 * flixbus
+	Ausgaben:fahrkosten  €24.00
+	Aktiv:giro
+
+2016/01/03 * irgendwo
+	Aktiv:sonstiges
+	Aktiv:bar  €-10.00
+	Passiv:Schulden:Peter  €-10.00
